@@ -518,13 +518,6 @@
         "Link": "https://watch.plex.tv/live-tv/channel/kxxv"
     },
     {
-        "Title": "The World Poker Tour",
-        "Genre": "Sports",
-        "Language": "EN",
-        "Summary": "The WPT ignited the global poker boom with a unique television show based on a series of high-stakes tournaments.",
-        "Link": "https://watch.plex.tv/live-tv/channel/the-world-poker-tour"
-    },
-    {
         "Title": "Midsomer Murders",
         "Genre": "Drama TV",
         "Language": "EN",
@@ -2643,7 +2636,7 @@
         "Genre": "Sports",
         "Language": "EN",
         "Summary": "The WPT ignited the global poker boom with a unique television show based on a series of high-stakes tournaments.",
-        "Link": "https://watch.plex.tv/live-tv/channel/the-world-poker-tour-2"
+        "Link": "https://watch.plex.tv/live-tv/channel/the-world-poker-tour"
     },
     {
         "Title": "Kim's Convenience",
@@ -5729,7 +5722,7 @@
         "Title": "Telemundo al Dia",
         "Genre": "En Espa\u00f1ol",
         "Language": "ES",
-        "Summary": "La fuente de informaci\u00f3n m\u00e1s confiable de la comunidad hispana en EE.UU.\u00a0que\u00a0ofrece las noticias\u00a0m\u00e1s importantes y lo \u00faltimo\u00a0del entretenimiento y el deporte.",
+        "Summary": "Lo mejor del entretenimiento: noticias de celebridades, estilo de vida, debates, cultura latina, grandes eventos, realities irresistibles y m\u00e1s.",
         "Link": "https://watch.plex.tv/live-tv/channel/telemundo-al-dia"
     },
     {

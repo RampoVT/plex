@@ -497,6 +497,13 @@
         "Link": "https://watch.plex.tv/live-tv/channel/mythbusters"
     },
     {
+        "Title": "BBC Earth",
+        "Genre": "Explore",
+        "Language": "EN",
+        "Summary": "BBC Earth brings you heart-pounding action, mind-blowing sights, and the wonder of this amazing planet we call home.",
+        "Link": "https://watch.plex.tv/live-tv/channel/bbc-earth"
+    },
+    {
         "Title": "The Repair Shop",
         "Genre": "Explore",
         "Language": "EN",
@@ -945,6 +952,13 @@
         "Link": "https://watch.plex.tv/live-tv/channel/drive-tv"
     },
     {
+        "Title": "No Reservations",
+        "Genre": "Food, Home & Culture",
+        "Language": "EN",
+        "Summary": "Follow Anthony Bourdain as he travels to various locations, discovering diverse cuisines and culinary experiences.",
+        "Link": "https://watch.plex.tv/live-tv/channel/no-reservations"
+    },
+    {
         "Title": "Arthur",
         "Genre": "Kids & Family",
         "Language": "EN",
@@ -957,6 +971,13 @@
         "Language": "EN",
         "Summary": "Experience Earth in its primal form, where predators and prey enact the ancient rituals of survival, the ground below us trembles and erupts, and the pulse of life permeates its very essence.",
         "Link": "https://watch.plex.tv/live-tv/channel/magellantv-wildest"
+    },
+    {
+        "Title": "PBS Nature",
+        "Genre": "Explore",
+        "Language": "EN",
+        "Summary": "Travel the globe with PBS NATURE and bring spectacular wildlife into your home 24/7.",
+        "Link": "https://watch.plex.tv/live-tv/channel/pbs-nature"
     },
     {
         "Title": "Evolution Earth",
@@ -1869,6 +1890,13 @@
         "Link": "https://watch.plex.tv/live-tv/channel/doc-story"
     },
     {
+        "Title": "I Shouldn't Be Alive",
+        "Genre": "Explore",
+        "Language": "EN",
+        "Summary": "True stories of survival\u2014ordinary people pushed to the edge in nature\u2019s harshest, most unforgiving places.",
+        "Link": "https://watch.plex.tv/live-tv/channel/i-shouldnt-be-alive"
+    },
+    {
         "Title": "True History",
         "Genre": "Explore",
         "Language": "EN",
@@ -1939,6 +1967,13 @@
         "Link": "https://watch.plex.tv/live-tv/channel/shout-movies"
     },
     {
+        "Title": "Dog The Bounty Hunter",
+        "Genre": "Reality",
+        "Language": "EN",
+        "Summary": "Follow \u201cDog\u201d and his crew as they track down fugitives who\u2019ve jumped bail.",
+        "Link": "https://watch.plex.tv/live-tv/channel/dog-the-bounty-hunter-4"
+    },
+    {
         "Title": "Untold Stories of the ER",
         "Genre": "Reality",
         "Language": "EN",
@@ -1988,13 +2023,6 @@
         "Link": "https://watch.plex.tv/live-tv/channel/ice-road-truckers-2"
     },
     {
-        "Title": "On Patrol: Live",
-        "Genre": "Reality",
-        "Language": "EN",
-        "Summary": "Real crime, real officers, real moments. On Patrol: Live episodes streaming around the clock.",
-        "Link": "https://watch.plex.tv/live-tv/channel/on-patrol-live"
-    },
-    {
         "Title": "I Survived\u2026",
         "Genre": "Reality",
         "Language": "EN",
@@ -2028,6 +2056,13 @@
         "Language": "EN",
         "Summary": "Deep in the woods, these loggers are risking it all! 24/7 non-stop episodes of the hard-hitting series.",
         "Link": "https://watch.plex.tv/live-tv/channel/ax-men-2"
+    },
+    {
+        "Title": "Duck Dynasty",
+        "Genre": "Reality",
+        "Language": "EN",
+        "Summary": "Meet the close-knit family behind a successful sporting empire.",
+        "Link": "https://watch.plex.tv/live-tv/channel/duck-dynasty"
     },
     {
         "Title": "Duck Dynasty",
@@ -2133,6 +2168,13 @@
         "Language": "EN",
         "Summary": "Experience the most astonishing, unusual, and unforgettable medical mysteries and transformations. Dive into real-life cases that defy the odds and highlight the resilience of the human body\u2014and the experts who help heal or transform it.",
         "Link": "https://watch.plex.tv/live-tv/channel/medical-incredible"
+    },
+    {
+        "Title": "Little Women: LA",
+        "Genre": "Reality",
+        "Language": "EN",
+        "Summary": "With big personalities and even bigger dreams, these extraordinary women tackle life's challenges head-on.",
+        "Link": "https://watch.plex.tv/live-tv/channel/little-women-la-2"
     },
     {
         "Title": "Don't Tell The Bride",
@@ -2527,6 +2569,13 @@
         "Link": "https://watch.plex.tv/live-tv/channel/fox-sports"
     },
     {
+        "Title": "NFL Super Bowl Champions",
+        "Genre": "Sports",
+        "Language": "EN",
+        "Summary": "An all-access documentary series revealing the defining moments behind the NFL\u2019s greatest Super Bowl champions.",
+        "Link": "https://watch.plex.tv/live-tv/channel/nfl-super-bowl-champions"
+    },
+    {
         "Title": "TNA Wrestling Channel",
         "Genre": "Sports",
         "Language": "EN",
@@ -2688,25 +2737,11 @@
         "Link": "https://watch.plex.tv/live-tv/channel/bizarre-foods-with-andrew-zimmern"
     },
     {
-        "Title": "Dog The Bounty Hunter",
-        "Genre": "Reality",
-        "Language": "EN",
-        "Summary": "Follow \u201cDog\u201d and his crew as they track down fugitives who\u2019ve jumped bail.",
-        "Link": "https://watch.plex.tv/live-tv/channel/dog-the-bounty-hunter-4"
-    },
-    {
         "Title": "Runtime Crime",
         "Genre": "Movies",
         "Language": "PT",
         "Summary": "Hist\u00f3rias policiais e investiga\u00e7\u00f5es cheias de mist\u00e9rio e intriga.",
         "Link": "https://watch.plex.tv/live-tv/channel/runtime-crime"
-    },
-    {
-        "Title": "Duck Dynasty",
-        "Genre": "Reality",
-        "Language": "EN",
-        "Summary": "Meet the close-knit family behind a successful sporting empire.",
-        "Link": "https://watch.plex.tv/live-tv/channel/duck-dynasty"
     },
     {
         "Title": "FilmRise Binge Watch",
@@ -3024,13 +3059,6 @@
         "Link": "https://watch.plex.tv/live-tv/channel/the-emeril-lagasse-channel"
     },
     {
-        "Title": "Little Women: LA",
-        "Genre": "Reality",
-        "Language": "EN",
-        "Summary": "With big personalities and even bigger dreams, these extraordinary women tackle life's challenges head-on.",
-        "Link": "https://watch.plex.tv/live-tv/channel/little-women-la-2"
-    },
-    {
         "Title": "Operation Repo",
         "Genre": "Reality",
         "Language": "EN",
@@ -3043,13 +3071,6 @@
         "Language": "FR",
         "Summary": "Wasabi- la chaine anime",
         "Link": "https://watch.plex.tv/live-tv/channel/wasabi"
-    },
-    {
-        "Title": "Tastemade",
-        "Genre": "Food, Home & Culture",
-        "Language": "EN",
-        "Summary": "Welcome to Tastemade: the ultimate house party and everyone\u2019s invited! Featuring award-winning food and lifestyle programming designed to get you off the couch.",
-        "Link": "https://watch.plex.tv/live-tv/channel/tastemade-5"
     },
     {
         "Title": "TV5MONDE Chefs",
@@ -3395,13 +3416,6 @@
         "Link": "https://watch.plex.tv/live-tv/channel/tastemade"
     },
     {
-        "Title": "No Reservations",
-        "Genre": "Explore",
-        "Language": "EN",
-        "Summary": "Follow Anthony Bourdain as he travels to various locations, discovering diverse cuisines and culinary experiences.",
-        "Link": "https://watch.plex.tv/live-tv/channel/no-reservations"
-    },
-    {
         "Title": "Duck Dynasty",
         "Genre": "Bingeworthy",
         "Language": "EN",
@@ -3484,13 +3498,6 @@
         "Language": "DE",
         "Summary": "Auf diesem Kanal sehen Sie jederzeit Marathon-Serien von erfolgreichen Dramen wie die Mystery-Anthologie-Serie X-FACTOR, das Piratendrama CROSSBONES, das amerikanische Fantasy-Drama BEING HUMAN (US), das Coming-of-Age-Drama SENSITIVE SKIN sowie weitere Serien, die bald erscheinen.",
         "Link": "https://watch.plex.tv/live-tv/channel/filmrise-binge-watch-2"
-    },
-    {
-        "Title": "Tastemade",
-        "Genre": "Food, Home & Culture",
-        "Language": "EN",
-        "Summary": "Welcome to Tastemade: the ultimate house party and everyone\u2019s invited! Featuring award-winning food and lifestyle programming designed to get you off the couch.",
-        "Link": "https://watch.plex.tv/live-tv/channel/tastemade-6"
     },
     {
         "Title": "Robot Wars by Mech+",
@@ -3589,13 +3596,6 @@
         "Language": "EN",
         "Summary": "beIN SPORTS XTRA is your home of FREE European Football. Watch highlights and shows from Serie A, LALIGA, Bundesliga, Carabao Cup, English Football League and much more on this free 24/7 sports channel.",
         "Link": "https://watch.plex.tv/live-tv/channel/bein-sports-xtra-2"
-    },
-    {
-        "Title": "BBC Earth",
-        "Genre": "Explore",
-        "Language": "EN",
-        "Summary": "BBC Earth brings you heart-pounding action, mind-blowing sights, and the wonder of this amazing planet we call home.",
-        "Link": "https://watch.plex.tv/live-tv/channel/bbc-earth"
     },
     {
         "Title": "Mr. Bean",
@@ -3969,6 +3969,20 @@
         "Link": "https://watch.plex.tv/live-tv/channel/live-pd-presents"
     },
     {
+        "Title": "A&E Alaska State Troopers",
+        "Genre": "True Crime",
+        "Language": "EN",
+        "Summary": "Ride along as troopers patrol vast, unforgiving terrain to keep the streets safe.",
+        "Link": "https://watch.plex.tv/live-tv/channel/aande-alaska-state-troopers"
+    },
+    {
+        "Title": "On Patrol: Live",
+        "Genre": "True Crime",
+        "Language": "EN",
+        "Summary": "Real crime, real officers, real moments. On Patrol: Live episodes streaming around the clock.",
+        "Link": "https://watch.plex.tv/live-tv/channel/on-patrol-live"
+    },
+    {
         "Title": "Samuel Goldwyn Channel",
         "Genre": "Movies",
         "Language": "EN",
@@ -3995,13 +4009,6 @@
         "Language": "EN",
         "Summary": "Crack the case alongside the world's best detectives with mystery series like THE FBI FILES and MIDSOMER MURDERS.",
         "Link": "https://watch.plex.tv/live-tv/channel/filmrise-mysteries"
-    },
-    {
-        "Title": "PBS Nature",
-        "Genre": "Explore",
-        "Language": "EN",
-        "Summary": "Travel the globe with PBS NATURE and bring spectacular wildlife into your home 24/7.",
-        "Link": "https://watch.plex.tv/live-tv/channel/pbs-nature"
     },
     {
         "Title": "FilmRise Sci-Fi",
@@ -4860,7 +4867,7 @@
     {
         "Title": "FreeTV Acci\u00f3n",
         "Genre": "Adrenaline & Sci-Fi",
-        "Language": "EN",
+        "Language": "ES",
         "Summary": "Ad\u00e9ntrate en un mundo de emociones vibrantes con FreeTV Acci\u00f3n. Tu destino para pel\u00edculas y series llenas de acci\u00f3n y crimen.",
         "Link": "https://watch.plex.tv/live-tv/channel/freetv-accion-2"
     },
@@ -5241,6 +5248,13 @@
         "Language": "EN",
         "Summary": "Your streaming destination for the best in Asian film and TV content. The one-stop portal to the latest Asian entertainment.",
         "Link": "https://watch.plex.tv/live-tv/channel/asiancrush"
+    },
+    {
+        "Title": "JoySauce",
+        "Genre": "Global",
+        "Language": "EN",
+        "Summary": "First digital entertainment network serving Asian American audiences and Asian pop culture cinema & TV fans",
+        "Link": "https://watch.plex.tv/live-tv/channel/joysauce"
     },
     {
         "Title": "Runtime",
@@ -5892,13 +5906,6 @@
         "Language": "ES",
         "Summary": "Al encuentro de la diversi\u00f3n.",
         "Link": "https://watch.plex.tv/live-tv/channel/runtime-comedia-2"
-    },
-    {
-        "Title": "Choppertown",
-        "Genre": "Food, Home & Culture",
-        "Language": "EN",
-        "Summary": "Documentaries and movies about the life. Choppers, bobbers, cars and friendship. Staying independent since 2004.",
-        "Link": "https://watch.plex.tv/live-tv/channel/choppertown"
     },
     {
         "Title": "FilmRise Action",
@@ -7084,13 +7091,6 @@
         "Link": "https://watch.plex.tv/live-tv/channel/moviesphere-5"
     },
     {
-        "Title": "Total Crime",
-        "Genre": "True Crime",
-        "Language": "EN",
-        "Summary": "Where questionable people do very bad things. True crime, all the time.",
-        "Link": "https://watch.plex.tv/live-tv/channel/total-crime"
-    },
-    {
         "Title": "Cops en Espa\u00f1ol",
         "Genre": "En Espa\u00f1ol",
         "Language": "ES",
@@ -7292,6 +7292,13 @@
         "Language": "EN",
         "Summary": "The PLL Network is the global destination for the best lacrosse in the world.",
         "Link": "https://watch.plex.tv/live-tv/channel/pll-network-2"
+    },
+    {
+        "Title": "Swerve Women's Sports",
+        "Genre": "Sports",
+        "Language": "EN",
+        "Summary": "Extensive women\u2019s sports coverage, featuring football, basketball, softball, soccer, volleyball, gymnastics, boxing, MMA and more.",
+        "Link": "https://watch.plex.tv/live-tv/channel/swerve-womens-sports"
     },
     {
         "Title": "WPXI Now Pittsburgh",
@@ -8122,7 +8129,7 @@
     {
         "Title": "FreeTV Horror",
         "Genre": "En Espa\u00f1ol",
-        "Language": "EN",
+        "Language": "ES",
         "Summary": "Prep\u00e1rate para un escalofriante viaje y satisface tu apetito por el horror, los thrillers y el suspenso con FreeTV Horror.",
         "Link": "https://watch.plex.tv/live-tv/channel/freetv-horror-2"
     },
@@ -8146,13 +8153,6 @@
         "Language": "EN",
         "Summary": "Homeful is a free streaming channel with the best real estate, renovation, and design shows, featuring all your favourite pros.",
         "Link": "https://watch.plex.tv/live-tv/channel/homeful"
-    },
-    {
-        "Title": "Kidz Bop TV",
-        "Genre": "Kids & Family",
-        "Language": "EN",
-        "Summary": "KIDZ BOP is the #1 music brand for kids, and KIDZ BOP TV is THE place to watch KIDZ BOP videos!",
-        "Link": "https://watch.plex.tv/live-tv/channel/kidz-bop-tv"
     },
     {
         "Title": "Masha and the Bear",
@@ -11240,20 +11240,6 @@
         "Language": "ES",
         "Summary": "Revry Latinx is your gateway to authentic, groundbreaking content celebrating the intersection of LGBTQ+ and Latinx identities.",
         "Link": "https://watch.plex.tv/live-tv/channel/revry-latinx"
-    },
-    {
-        "Title": "Tastemade",
-        "Genre": "Food, Home & Culture",
-        "Language": "EN",
-        "Summary": "Welcome to Tastemade: the ultimate house party and everyone\u2019s invited! Featuring award-winning food and lifestyle programming designed to get you off the couch.",
-        "Link": "https://watch.plex.tv/live-tv/channel/tastemade-3"
-    },
-    {
-        "Title": "Tastemade",
-        "Genre": "Food, Home & Culture",
-        "Language": "EN",
-        "Summary": "Welcome to Tastemade: the ultimate house party and everyone\u2019s invited! Featuring award-winning food and lifestyle programming designed to get you off the couch.",
-        "Link": "https://watch.plex.tv/live-tv/channel/tastemade-2"
     },
     {
         "Title": "OUTflix Proud",

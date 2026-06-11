@@ -252,13 +252,6 @@
         "Link": "https://watch.plex.tv/live-tv/channel/ion-mystery"
     },
     {
-        "Title": "Ninja Warrior",
-        "Genre": "Daytime TV & Games",
-        "Language": "EN",
-        "Summary": "Ninja Warrior is an adrenaline-fueled show that puts the physical and mental abilities of competitors to the ultimate test. Contestants run, jump, crawl, climb, hang and swing through crazy obstacles as they compete to become the next Ninja champion and the chance to win a cash prize!",
-        "Link": "https://watch.plex.tv/live-tv/channel/ninja-warrior"
-    },
-    {
         "Title": "Sony One | FAVES",
         "Genre": "Classics",
         "Language": "EN",
@@ -7210,6 +7203,13 @@
         "Link": "https://watch.plex.tv/live-tv/channel/lucha-plus"
     },
     {
+        "Title": "Pitufo TV",
+        "Genre": "En Espa\u00f1ol",
+        "Language": "ES",
+        "Summary": "\u00a1Bienvenido a SMURF TV, el \u00fanico canal dedicado a los Pitufos, con tus episodios favoritos 24/7!",
+        "Link": "https://watch.plex.tv/live-tv/channel/pitufo-tv-2"
+    },
+    {
         "Title": "\u00daN TV",
         "Genre": "Food, Home & Culture",
         "Language": "ES",
@@ -10311,6 +10311,13 @@
         "Link": "https://watch.plex.tv/live-tv/channel/caracol-mix-2"
     },
     {
+        "Title": "UFC",
+        "Genre": "Sports",
+        "Language": "PT",
+        "Summary": "A\u00e7\u00e3o do UFC 24 horas por dia. Celebre as maiores lutas, os melhores atletas e os momentos mais marcantes da principal organiza\u00e7\u00e3o de MMA do mundo.",
+        "Link": "https://watch.plex.tv/live-tv/channel/ufc-2"
+    },
+    {
         "Title": "CBC News New Brunswick",
         "Genre": "News",
         "Language": "EN",
@@ -11887,7 +11894,7 @@
     },
     {
         "Title": "Pitufo TV",
-        "Genre": "En Espa\u00f1ol",
+        "Genre": "Classics",
         "Language": "ES",
         "Summary": "\u00a1Bienvenido a SMURF TV, el \u00fanico canal dedicado a los Pitufos, con tus episodios favoritos 24/7!",
         "Link": "https://watch.plex.tv/live-tv/channel/pitufo-tv"
